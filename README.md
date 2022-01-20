@@ -46,4 +46,4 @@ curl -XPOST http://localhost:3000/appointments -H "Content-Type: application/jso
 
 # fs-SaloonSpa
 
-Resuming work on Jan 17th after last push on Nov 17th 2021
+Resuming work on Jan 17th after last push on Nov 17th 2021.
